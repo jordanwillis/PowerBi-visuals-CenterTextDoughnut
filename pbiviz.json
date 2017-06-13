@@ -1,0 +1,27 @@
+{
+  "visual": {
+    "name": "powerBi-Visuals-CenterTextDoughnut",
+    "displayName": "PowerBi-visuals-CenterTextDoughnut",
+    "guid": "powerBi-Visuals-CenterTextDoughnut9745F40483BD4789BBF61FC202215088",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "1.6.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [
+    "node_modules/powerbi-visuals-utils-dataviewutils/lib/index.js"
+  ],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": "dependencies.json",
+  "stringResources": []
+}
